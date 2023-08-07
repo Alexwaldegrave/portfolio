@@ -1,6 +1,4 @@
-//Alex Waldegrave
-//ST10153095
-//PROG6112 Take Home Exam
+
 package hospitalinspectionapplication;
 
 import java.awt.Choice;
